@@ -1,7 +1,6 @@
-Project Title
-A brief description of what this project does and who it's for
+  
 
-Soroban Lottery Contract
+# Soroban Lottery Contract
 This contract provides lottery implementation for the Soroban smart contract platform. It allows an administrator to create and manage lotteries where participants can buy tickets and win prizes based on correctly selected numbers.
 
 Features
@@ -46,6 +45,4 @@ To set up a development environment for this contract, follow the instructions p
 
 Contributing
 Contributions to this contract are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details
+ 
